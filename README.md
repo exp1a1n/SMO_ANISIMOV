@@ -15,3 +15,6 @@
 
 ## Бизнес-домен
 Онлайн-игровой сервер: игроки подключаются к слотам, при переполнении — самый старый в очереди выкидывается.
+
+ссылка на сиквенс, флоучарт и диаграмму классов - https://disk.yandex.ru/i/e_OjEjEyrsSSfA
+ссылка на тех. требования - https://docs.google.com/document/d/1T7XDWXoSYp6y-jYwa8DYZWq-mzu5ptUYb-A1aBX78G4/edit?tab=t.0
